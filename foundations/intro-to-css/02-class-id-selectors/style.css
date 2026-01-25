@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odds{
+    background-color: #eecac9;
+    font-family: Verdana, DejaVu Sans, sans-serif
+}
+.large-font{
+    font-size: 24px;
+}
+#two{
+    color: #0088ff;
+    font-size: 36px;
+}
+#four{
+    background-color: #b4d4a1;
+    font-size: 24px;
+    font-weight: bold;
+}
